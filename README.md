@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Yousef 👋:
-I'm currently working as a Full-stack Web developer, ALX Fellow<br>MERNA stack (MongoDB, Express.js, React.js, Node.js, AWS cloud services)<br>Advanced Skills include    1. Database Management (MySQL)<br>    2. System Design<br>    3. Problem Solving Skills<br><br>I'm looking to collaborate on more big projects so I can develop my GitHub and my skills even further<br>You can Ask me about any problems to solve, any technical issues in your project and I'll be happy to help<br><br>Fun Fact: I love playing chess & Reading books
+I'm currently working as a Full-stack Web developer, ALX Fellow<br>MERNA stack (MongoDB, Express.js, React.js, Node.js, AWS cloud services)<br>Advanced Skills include <br>   1. Database Management (MySQL)<br>    2. System Design<br>    3. Problem Solving Skills<br>I'm looking to collaborate on more big projects so I can develop my GitHub and my skills even further<br>You can Ask me about any problems to solve, any technical issues in your project and I'll be happy to help<br><br>Fun Fact: I love playing chess & Reading books
 
 
 ## 🌐 Socials:
